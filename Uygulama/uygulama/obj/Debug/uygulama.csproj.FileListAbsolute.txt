@@ -1,0 +1,24 @@
+C:\Users\SalihBurak\Desktop\work\uygulama\uygulama\bin\Debug\uygulama.exe.config
+C:\Users\SalihBurak\Desktop\work\uygulama\uygulama\bin\Debug\uygulama.exe
+C:\Users\SalihBurak\Desktop\work\uygulama\uygulama\bin\Debug\uygulama.pdb
+C:\Users\SalihBurak\Desktop\work\uygulama\uygulama\obj\Debug\uygulama.csprojAssemblyReference.cache
+C:\Users\SalihBurak\Desktop\work\uygulama\uygulama\obj\Debug\uygulama.csproj.CoreCompileInputs.cache
+C:\Users\SalihBurak\Desktop\work\uygulama\uygulama\obj\Debug\uygulama.exe
+C:\Users\SalihBurak\Desktop\work\uygulama\uygulama\obj\Debug\uygulama.pdb
+C:\Users\SalihBurak\Desktop\work\uygulama\uygulama\obj\Debug\uygulama.csproj.CopyComplete
+C:\Users\SalihBurak\Desktop\work\yıldız-holding-ceri tandoğan proje\uygulama\bin\Debug\uygulama.exe.config
+C:\Users\SalihBurak\Desktop\work\yıldız-holding-ceri tandoğan proje\uygulama\bin\Debug\uygulama.exe
+C:\Users\SalihBurak\Desktop\work\yıldız-holding-ceri tandoğan proje\uygulama\bin\Debug\uygulama.pdb
+C:\Users\SalihBurak\Desktop\work\yıldız-holding-ceri tandoğan proje\uygulama\obj\Debug\uygulama.csprojAssemblyReference.cache
+C:\Users\SalihBurak\Desktop\work\yıldız-holding-ceri tandoğan proje\uygulama\obj\Debug\uygulama.csproj.CoreCompileInputs.cache
+C:\Users\SalihBurak\Desktop\work\yıldız-holding-ceri tandoğan proje\uygulama\obj\Debug\uygulama.csproj.CopyComplete
+C:\Users\SalihBurak\Desktop\work\yıldız-holding-ceri tandoğan proje\uygulama\obj\Debug\uygulama.exe
+C:\Users\SalihBurak\Desktop\work\yıldız-holding-ceri tandoğan proje\uygulama\obj\Debug\uygulama.pdb
+C:\Users\SalihBurak\Desktop\Ceri bey program\Uygulama\uygulama\bin\Debug\uygulama.exe.config
+C:\Users\SalihBurak\Desktop\Ceri bey program\Uygulama\uygulama\bin\Debug\uygulama.exe
+C:\Users\SalihBurak\Desktop\Ceri bey program\Uygulama\uygulama\bin\Debug\uygulama.pdb
+C:\Users\SalihBurak\Desktop\Ceri bey program\Uygulama\uygulama\obj\Debug\uygulama.csprojAssemblyReference.cache
+C:\Users\SalihBurak\Desktop\Ceri bey program\Uygulama\uygulama\obj\Debug\uygulama.csproj.CoreCompileInputs.cache
+C:\Users\SalihBurak\Desktop\Ceri bey program\Uygulama\uygulama\obj\Debug\uygulama.csproj.CopyComplete
+C:\Users\SalihBurak\Desktop\Ceri bey program\Uygulama\uygulama\obj\Debug\uygulama.exe
+C:\Users\SalihBurak\Desktop\Ceri bey program\Uygulama\uygulama\obj\Debug\uygulama.pdb
