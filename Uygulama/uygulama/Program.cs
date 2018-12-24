@@ -23,7 +23,7 @@ namespace uygulama
             Random rnd = new Random();
             for (int i = 0; i < 60; i++)
             {
-                Not_dizisi[i] = rnd.Next(2, 100);
+                Not_dizisi[i] = rnd.Next(0, 100);
             }
         }
         public class Program
